@@ -1,0 +1,10 @@
+.idea/
+target/
+project/*
+*.iml
+scripts2
+.bsp
+
+
+!project/build.properties
+!project/plugins.sbt
